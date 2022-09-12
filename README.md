@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with Piuskimsey Web Application
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piusgori&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piusgori&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=piusgori&repo=new-piuskimsey-backend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piusgori&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piusgori&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=piusgori&theme=radical&hide_border=true)](https://git.io/streak-stats)
