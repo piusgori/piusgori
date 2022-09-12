@@ -9,3 +9,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=piusgori&repo=new-piuskimsey-backend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piusgori&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=piusgori)](https://github.com/anuraghazra/github-readme-stats)
