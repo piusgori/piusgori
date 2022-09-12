@@ -6,3 +6,4 @@
 - 🤔 I’m looking for help with Piuskimsey Web Application
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=piusgori&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=piusgori&repo=new-piuskimsey-backend)](https://github.com/anuraghazra/github-readme-stats)
