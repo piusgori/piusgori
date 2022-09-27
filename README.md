@@ -7,6 +7,8 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: Deejay Dreefstar is my hobby character [https://hearthis.at/ian-pius/]
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 
 ### Connect with me:
 
