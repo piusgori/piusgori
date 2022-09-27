@@ -45,6 +45,14 @@
 
 <img align="left" alt="Pius' Stats" src="http://github-readme-streak-stats.herokuapp.com?user=piusgori&theme=radical&hide_border=true" />
 
+---
+
+### My Recent Spotify Playlist:
+
+<img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+
+<img align="left" alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=hv0w21qvudii8q46anmzbrq21" />
+
 [website]: https://piusgori.xyz
 [twitter]: https://twitter.com/IanPius3
 [linkedin]: https://www.linkedin.com/in/ian-pius-13b08b231
