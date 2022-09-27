@@ -39,16 +39,11 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Pius' Stats" src="https://github-readme-stats.vercel.app/api?username=piusgori&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="left" alt="Pius' Stats" src="https://github-readme-stats.vercel.app/api?username=piusgori&count_private=true&show_icons=true&theme=tokyonight" />
 
 <img align="left" alt="Pius' Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piusgori&theme=tokyonight" />
 
 <img align="left" alt="Pius' Stats" src="http://github-readme-streak-stats.herokuapp.com?user=piusgori&theme=radical&hide_border=true" />
-
-</details>
 
 [website]: https://piusgori.xyz
 [twitter]: https://twitter.com/IanPius3
