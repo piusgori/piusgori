@@ -49,9 +49,6 @@
 <br />
 
 ---
-### My Recent Spotify Playlist:
-
-<img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
 
 <img align="left" alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=hv0w21qvudii8q46anmzbrq21" />
 
