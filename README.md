@@ -38,15 +38,17 @@
 <br />
 
 ---
-<div>
+
 <img align="left" alt="Pius' Stats" src="https://github-readme-stats.vercel.app/api?username=piusgori&count_private=true&show_icons=true&theme=tokyonight" />
 
 <img align="left" alt="Pius' Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piusgori&theme=tokyonight" />
 
 <img align="left" alt="Pius' Stats" src="http://github-readme-streak-stats.herokuapp.com?user=piusgori&theme=radical&hide_border=true" />
 
-</div>
+<br />
+<br />
 
+---
 ### My Recent Spotify Playlist:
 
 <img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
