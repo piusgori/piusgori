@@ -45,7 +45,6 @@
 
 <img align="left" alt="Pius' Stats" src="http://github-readme-streak-stats.herokuapp.com?user=piusgori&theme=radical&hide_border=true" />
 
----
 
 ### My Recent Spotify Playlist:
 
