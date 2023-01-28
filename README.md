@@ -2,9 +2,9 @@
 
 ## I'm a Software Developer and Partly Disc Jockey!!
 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and NextJs
 - 👯 I’m looking to collaborate with NodeJs, React and Flutter Apps
-- 🥅 2022 Goals: Learn more about web3
+- :mailbox: Contact me through <piusgori@gmail.com>.
 - ⚡ Fun fact: Deejay Dreefstar is my hobby character [https://hearthis.at/ian-pius/]
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
