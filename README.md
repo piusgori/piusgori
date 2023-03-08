@@ -3,7 +3,7 @@
 ## I'm a Software Developer and Partly Disc Jockey!!
 
 - 🌱 I’m currently learning TypeScript and NextJs
-- 👯 I’m looking to collaborate with NodeJs, React and Flutter Apps
+- 👯 I’m looking to collaborate with NodeJs, React, React Native and Flutter Apps
 - :mailbox: Contact me through <piusgori@gmail.com>.
 - ⚡ Fun fact: Deejay Dreefstar is my hobby character [https://hearthis.at/ian-pius/]
 
