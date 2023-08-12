@@ -57,15 +57,7 @@
 
 <img align="left" alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=hv0w21qvudii8q46anmzbrq21" />
 
-<br />
-<br />
 
----
-
-<img
-  src="https://github.com/piusgori/piusgori/blob/main/images/stat.svg"
-  alt="Pius WakaTime Activity"
-/>
 [website]: https://piusgori.xyz
 [twitter]: https://twitter.com/IanPius3
 [linkedin]: https://www.linkedin.com/in/ian-pius-13b08b231
