@@ -1,11 +1,10 @@
 # Hi there, I'm Ian Pius  👋 
 
-## I'm a Software Developer and Partly Disc Jockey!!
+## I'm a Software Developer!!
 
-- 🌱 I’m currently learning TypeScript and NextJs
-- 👯 I’m looking to collaborate with NodeJs, React, React Native and Flutter Apps
+- 🌱 I’m currently learning Django and Golang
+- 👯 I’m looking to collaborate in any innovative and interesting project
 - :mailbox: Contact me through <piusgori@gmail.com>.
-- ⚡ Fun fact: Deejay Dreefstar is my hobby character [https://hearthis.at/ian-pius/]
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
